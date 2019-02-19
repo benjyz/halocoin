@@ -1,5 +1,5 @@
 import os
-from cdecimal import Decimal
+from decimal import Decimal
 
 version = "0.0013"
 block_reward = 500  # Initial block reward
